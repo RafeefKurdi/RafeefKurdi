@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @RafeefKurdi
-- 👀 I’m interested in Web Development
-- 📫 Email me at rafeefareb@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I play the violin and piano
+- 👋 Hi, I’m Rafeef Kurdi!
+
+✨ ** About Me **
+- 🍰 When I'm not coding you'll find me baking!
+- 🎻 I play both Violin and Piano
+- 🖥️ Currently enriching my web development skills
+
+
+💻 ** Tech Stack **
+- 📚 Languages: HTML, CSS, JavaScript, Python, Haskell
+
+🤝 ** Let's Connect **
+- 📬 Email me at rafeefareb@gmail.com or text me here!
+- 
