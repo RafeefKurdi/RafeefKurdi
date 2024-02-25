@@ -7,7 +7,7 @@
 
 
 💻 ** Tech Stack **
-- 📚 Languages: HTML, CSS, JavaScript, Python, Haskell
+- 📚 Languages: HTML, CSS, JavaScript, Python, Haskell, C, Java
 
 🤝 ** Let's Connect **
 - 📬 Email me at rafeefareb@gmail.com or text me here!
